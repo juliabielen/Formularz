@@ -1,0 +1,12 @@
+</head>
+
+<body>
+<form name="first">
+Imię<br>
+<input type="text" name="text1">
+<input type="submit" value="ok">
+<P>
+Nazwisko:<br>
+<input type="text" name="text2">
+<input type="submit" value="ok">
+</body>
